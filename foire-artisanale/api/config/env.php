@@ -14,7 +14,7 @@ return [
     'DB_HOST' => 'localhost',
     'DB_NAME' => 'foire_artisanale',
     'DB_USER' => 'root',
-    'DB_PASSWORD' => 'secret',
+    'DB_PASSWORD' => '',
     'JWT_SECRET' => 'your_secret_key_here'
 ];
 ?>
